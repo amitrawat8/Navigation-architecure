@@ -11,4 +11,4 @@ Ex. As if we are moving from List-fragment to back on userDetail Fragment on bac
         android:layout_height="match_parent"
         app:defaultNavHost="true"
         app:navGraph="@navigation/navigation_graph" />
-        ```
+        
