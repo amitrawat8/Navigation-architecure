@@ -5,7 +5,7 @@ Ex. As if we are moving from List-fragment to back on userDetail Fragment on bac
 
 ```<fragment
      <fragment
-     android:id="@+id/my_nav_host_fragment"
+        android:id="@+id/my_nav_host_fragment"
         android:name="androidx.navigation.fragment.NavHostFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
