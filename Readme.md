@@ -1,4 +1,10 @@
-Stop reloading previous fragment by using Navigation architecure
+<!--
+  Title: Navigation architecure
+  Description: Stop reloading previous fragment by using Navigation architecure.
+  Author: Amit Rawat
+  -->
+  
+  Stop reloading previous fragment by using Navigation architecure
 
 
 Ex. As if we are moving from List-fragment to back on userDetail Fragment on back pressed no need to reload List-fragment again by using Android Jet Pack and Navigation Architecture
