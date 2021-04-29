@@ -1,10 +1,12 @@
 <!--
   Title: Navigation architecure
-  Description: Stop reloading previous fragment by using Navigation architecure.
+  Description: Stop reloading previous fragment by using Navigation architecure,
+  How to prevent previous fragment to show up after pressing back button using navigation controller?.
   Author: Amit Rawat
   -->
   
-  Stop reloading previous fragment by using Navigation architecure
+  1.Stop reloading previous fragment by using Navigation architecure
+  2.Navigation Architecture Fragment Reload Problem solved .
 
 
 Ex. As if we are moving from List-fragment to back on userDetail Fragment on back pressed no need to reload List-fragment again by using Android Jet Pack and Navigation Architecture
